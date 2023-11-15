@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/BulkyBookWeb/Migrations/20231106135421_AddCategoryToDatabase.cs
+/BulkyBookWeb/Migrations/20231106135421_AddCategoryToDatabase.cs
+/BulkyBookWeb/Migrations/20231106135421_AddCategoryToDatabase.Designer.cs
+/BulkyBookWeb/Migrations/20231106135421_AddCategoryToDatabase.cs
